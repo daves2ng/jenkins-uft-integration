@@ -4,7 +4,7 @@ WpfWindow("Micro Focus MyFlight Sample").WpfButton("OK").Click @@ hightlight id_
 WpfWindow("Micro Focus MyFlight Sample").WpfComboBox("fromCity").Select "Paris" @@ hightlight id_;_1914627136_;_script infofile_;_ZIP::ssf8.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfComboBox("toCity").Select "Sydney" @@ hightlight id_;_1917428456_;_script infofile_;_ZIP::ssf10.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfImage("WpfImage_2").Click 12,7 @@ hightlight id_;_1914626032_;_script infofile_;_ZIP::ssf11.xml_;_
-WpfWindow("Micro Focus MyFlight Sample").WpfCalendar("Su").SetDate "29-Nov-2022" @@ hightlight id_;_1917431000_;_script infofile_;_ZIP::ssf12.xml_;_
+WpfWindow("Micro Focus MyFlight Sample").WpfCalendar("Su").SetDate "29-Dec-2022" @@ hightlight id_;_1917431000_;_script infofile_;_ZIP::ssf12.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfComboBox("Class").Select "First" @@ hightlight id_;_1917430376_;_script infofile_;_ZIP::ssf14.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfComboBox("numOfTickets").Select "2" @@ hightlight id_;_1917430856_;_script infofile_;_ZIP::ssf16.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfButton("FIND FLIGHTS").Click @@ hightlight id_;_1914628432_;_script infofile_;_ZIP::ssf17.xml_;_
